@@ -1,5 +1,7 @@
 # cartreader (name pending)
 
+Apologies in advance, this repo is really all over the place. I'm trying to organize and document as I go and it's honestly taken more work to clean this project up and organize it than it has to actually create it in the first place. Things *will* be renamed eventually. 
+
 This device was created from the schematic of [sanni's cart reader](https://github.com/sanni/cartreader) and even uses the same, unmodified firmware. Please see that repo for firmware and firmware updates. This device consists of two parts, the control unit which features the arduino itself, the peripherals, and the power supply, and then the interface adapter, which is largely just a passive adapter to allow you to insert whatever cart. Currently, feature parity has not been reached as I have yet to implement a N64 or Megadrive/Genesis adapter. 
 
 ![cartreader](Images/rtfm.jpg)
