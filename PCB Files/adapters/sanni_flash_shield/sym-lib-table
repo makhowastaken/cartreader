@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name robotdyn)(type Legacy)(uri ${KIPRJMOD}/robotdyn.lib)(options "")(descr ""))
+)

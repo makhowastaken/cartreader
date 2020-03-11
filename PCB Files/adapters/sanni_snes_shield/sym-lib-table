@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name robotdyn)(type Legacy)(uri ${KIPRJMOD}/robotdyn.lib)(options "")(descr ""))
+  (lib (name sanni_snes-rescue)(type Legacy)(uri ${KIPRJMOD}/sanni_snes-rescue.lib)(options "")(descr ""))
+)
