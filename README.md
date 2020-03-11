@@ -2,6 +2,8 @@
 
 This device was created from the schematic of [sanni's cart reader](https://github.com/sanni/cartreader) and even uses the same, unmodified firmware. Please see that repo for firmware and firmware updates. This device consists of two parts, the control unit which features the arduino itself, the peripherals, and the power supply, and then the interface adapter, which is largely just a passive adapter to allow you to insert whatever cart. Currently, feature parity has not been reached as I have yet to implement a N64 or Megadrive/Genesis adapter. 
 
+![cartreader](Images/rtfm.jpg)
+
 ## control unit ("sanni_pro")
 
 The Brians of the device. This uses the aftermarket ATMEGA2560 "Pro" boards for a smaller footprint. The actual hardware is largely unchanged from the original Arduino Pros but the footprint is massively reduced. 
