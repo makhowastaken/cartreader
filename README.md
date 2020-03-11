@@ -27,10 +27,6 @@ This is equivalent to the module that plugs into the SNES/SFC slot on sanni's re
 
 This adapter is a work in progress. I have uploaded the current version that I have tested and confirmed works (except for the untested CIC lock circuit but it should be fine). Confirmed dumping of SFC games and functionality with sanni's addon modules that interface with the SNES/SFC slot. 
 
-BOM:
-(todo)
-The cart slot, CIC lock hardware, clock signal generator, two more of the SPDT switches that you used for the control unit, and probably something else that I'm forgetting. 
-
 [Click here for more info, PCB files, and assembly instructions/information of the SFC adapter.](PCB%20Files/adapters/sanni_snes_shield)
 
 ## n64 adapter
