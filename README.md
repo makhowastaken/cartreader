@@ -17,7 +17,7 @@ This part is designed to be "self contained" and will include all the hardware n
 
 ## gb/c and gba adapter ("sanni_gba")
 
-This is the primary adapter that I made this whole module for. I really liked my original reader but I wanted something smaller. 
+This is the primary adapter that I made this whole module for. I really liked my original reader but I wanted something smaller. This module may actually be combined with any of the other modules by sandwiching the other module inbetween this board and the control unit module.  
 
 [Click here for more info, PCB files, and assembly instructions/information of the GBA adapter.](PCB%20Files/adapters/sanni_gba_shield)
 
