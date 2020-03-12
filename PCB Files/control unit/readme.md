@@ -1,6 +1,8 @@
 # control unit
 
-renders soon
+Version 1.2c renders
+![front](../../Images/1.2c/cu_f.png)
+![back](../../Images/1.2c/cu_b.png)
 
 BOM: 
 
