@@ -1,6 +1,9 @@
 # game boy game pak adapter
 
-renders soon
+Version 1.2c renders
+
+![front](../../../Images/1.2c/gba_f.png)
+![back](../../../Images/1.2c/gba_b.png)
 
 BOM:
 
