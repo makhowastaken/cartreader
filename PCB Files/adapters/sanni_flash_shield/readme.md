@@ -1,6 +1,10 @@
 # 8 bit flash adapter
 
-renders soon
+Version 1.2c renders
+
+![front](../../../Images/1.2c/flash_f.png)
+![back](../../../Images/1.2c/flash_b.png)
+
 
 BOM:
 (todo)
