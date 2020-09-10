@@ -30,3 +30,14 @@ BOM:
 Please let me know if any parts go out of stock or if the listing disappears so that I can add an alternative. 
 
 Assembly must be completed in order. Due to the close proximity of the parts, flush cutters are required and kapton tape for insulation is *highly* recommended. [Please see my video for an example of assembly.](https://youtu.be/GbIMFZ5j5U0)
+
+---
+
+New v1.3???
+
+I have updated the PCB to use [my soft latching power button circuit](https://github.com/makhowastaken/Soft-Latching-Power-Button) and have otherwise slightly tweaked the traces to look better using oshpark's after dark fab process. Like previous boards, this is functionally identical and the only new feature is a momentary push button (swap one of the SPDT switches for the BOM listed in the above linked repo). Going forward, this is likely the board I will be updating but since I have not changed any critical dimensions, not much should change. 
+
+This revision should work since all I did was combine two tested, working designs but since I have yet to actually assemble one, it should be considered untested. 
+
+![front](../../Images/1.3/cart_reader_f.png)
+![back](../../Images/1.3/cart_reader_b.png)
