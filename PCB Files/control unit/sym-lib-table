@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name robotdyn)(type Legacy)(uri ${KIPRJMOD}/robotdyn.lib)(options "")(descr ""))
-  (lib (name tp4056)(type Legacy)(uri ${KIPRJMOD}/tp4056.lib)(options "")(descr ""))
-)
